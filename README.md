@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JojDobre
 - 🌱 I’m currently learning programming
 
-My projects: www.jojdobre.eu / www.renak.eu / wiki.jojdobre.eu
+My projects: www.jojdobre.eu / www.renak.eu / www.wiki.jojdobre.eu
 
 <!---
 JojDobre/JojDobre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
